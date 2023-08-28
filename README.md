@@ -1,4 +1,4 @@
-# IntegriScan using Deep Learning (ResNext and LSTM)
+# DeepAUth Detection and Creationg using Deep Learning (ResNext and LSTM)
 
 
 
