@@ -40,23 +40,11 @@ Deepfake_detection_using_deep_learning
 |model_91_acc_80_frames_final_data.pt | 6000 | 80 | 91.49818 |
 |model_93_acc_100_frames_final_data.pt| 6000 | 100 | 93.58794|
 
-## 6. Contributors
-   1. Abhijit Jadhav
-   2. Jay Patel
-   3. Hitendra Patil
-   4. Abhishek Patange
+
    
-## 7. License
 
 
-## 8. Welcome Open Source Contribution. 
-### Below are the some changes that can be applied to the project. New Ideas will be appreciated.
-- [ ] Deploying the applications in free cloud 
-- [ ] Creating open source API for detection
-- [ ] Batch processing of entire video instead of processing first 'x' frames.
-- [ ] Optimizing the code for faster execution.
-#### Completed 
-- [X] Dockerizing the app
-- [X] ~~Enabling working of project on Non Cuda Computers. i.e on normal or AMD GPUs~~ : not possible as dlib uses CUDA internally
+
+
 
 
